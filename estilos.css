@@ -1,0 +1,48 @@
+*{
+    padding: 1.5;
+    margin: 2;
+
+}
+
+body{
+    background-color: rgb(6, 207, 221); 
+}
+
+.titulo{
+    background-color: rgb(6, 207, 221); 
+    padding: 3rem;
+    margin: 4rem;
+}
+
+
+
+
+.jugador1{
+    background-color: rgb(255, 255, 255); 
+    padding: 0.2rem;
+    margin: 4rem;
+}
+
+.jugador2{
+    background-color: rgb(6, 207, 221); 
+    padding: 0.2rem;
+    margin: 4rem;
+}
+
+.jugador3{
+    background-color: rgb(255, 255, 255); 
+    padding: 0.2rem;
+    margin: 4rem;
+}
+
+.jugador4{
+    background-color: rgb(6, 207, 221); 
+    padding: 0.2rem;
+    margin: 4rem;
+}
+
+.jugador5{
+    background-color: rgb(255, 255, 255); 
+    padding: 0.2rem;
+    margin: 4rem;
+}
